@@ -1,0 +1,48 @@
+
+.imagen2{
+   
+    width: 200px;
+    height: 130px;
+    margin: 1px,1px,5px;
+    padding: 7px;
+    margin: 10px;
+    border: 2px  solid rgb(1, 204, 255);
+    float: left;
+    border-radius: 10px;
+}
+
+
+
+.componente2{
+    width: 1170px;
+    height: 500px;
+    margin: 1px,1px,5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(173, 223, 223);
+    box-shadow: 0 3px 13px 1px rgb(rgb(12, 12, 12), rgb(44, 44, 44), rgb(36, 36, 37));
+    border-radius: 15px;
+    
+
+
+  
+}
+.contenedorTexto{
+    background-color: rgba(214, 7, 255, 0.973);
+    width: 890px;
+    height: 180px;
+    align-items: center;
+    justify-content: center;
+    display: flexbox;
+    text-align: center;
+    border-radius: 15px;
+  
+ 
+
+    
+    
+}
+
+
+
