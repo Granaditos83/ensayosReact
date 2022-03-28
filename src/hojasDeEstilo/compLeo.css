@@ -1,5 +1,4 @@
-
-.imagen2{
+.imgLeo{
    
     width: 200px;
     height: 130px;
@@ -14,7 +13,7 @@
 
 
 
-.componente2{
+.componenteLeo{
     width: 1300px;
     height: 300px;
     margin: 1px,1px,5px;
@@ -55,6 +54,16 @@
     
     
 }
+.nombrePersona{
+  
+background-color: aqua;
+padding: 30pxx;
+display: flow-root;
+border-radius: 8px;
+background: linear-gradient(white, rgba(0, 47, 255, 0.534), white);
 
 
 
+
+
+}

@@ -6,16 +6,19 @@
 html,
 body{
     font-size: 18px;
-    background-color: rgba(181, 245, 234, 0.438);
+    background-color: rgba(219, 236, 234, 0.438);
+    font-family: 'Smokum', cursive;
+    font-family: 'Bungee Inline', cursive;
+  
 }
 h1{
     max-width: 998px;
     font-size: 5.5em;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Bungee Inline', cursive;
     font-weight: 700;
     line-height: 1.1;
     margin: 40px 0;
-    color: aquamarine;
+    color: rgb(8, 8, 8);
 
 }
 .App{
