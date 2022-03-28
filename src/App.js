@@ -1,6 +1,5 @@
 import './App.css'
-
-import Componente2 from './componentes/comp2'
+import ComponenteCristian from './componentes/compCristian'
 import ComponenteDiego from './componentes/compDiego'
 import ComponenteLeo from './componentes/compLeo'
 import ComponenteLucia from './componentes/compLucia'
@@ -12,7 +11,7 @@ function App () {
 
       <h2>Somos Granados Rojas</h2>
 
-      <Componente2 />
+      <ComponenteCristian />
       <ComponenteLucia />
       <ComponenteDiego />
       <ComponenteLeo />

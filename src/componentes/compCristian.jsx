@@ -1,9 +1,9 @@
 import React from 'react'
 import '../hojasDeEstilo/Comp2.css'
 
-function Componente2 () {
+function ComponenteCristian () {
   return (
-    <div className='componente2'>
+    <div className='componenteCristian'>
       <div className='contenedorTexto'>
         <img
           className='imagen2'
@@ -21,4 +21,4 @@ function Componente2 () {
   )
 }
 
-export default Componente2
+export default ComponenteCristian
